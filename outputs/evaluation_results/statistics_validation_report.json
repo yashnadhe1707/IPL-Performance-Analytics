@@ -1,0 +1,24 @@
+{
+    "batting_runs_validation": {
+        "engine_calculated_runs": 63562,
+        "raw_deliveries_runs": 63562,
+        "is_exact_match": true
+    },
+    "bowling_wickets_validation": {
+        "engine_calculated_wickets": 1635,
+        "raw_deliveries_wickets": 1635,
+        "is_exact_match": true
+    },
+    "team_wins_validation": {
+        "engine_calculated_team_wins": 180,
+        "matches_with_winners_count": 180,
+        "is_exact_match": true,
+        "all_win_percentages_within_bounds": true
+    },
+    "toss_statistics_validation": {
+        "toss_field_pct": 46.67,
+        "toss_bat_pct": 53.33,
+        "percentages_sum_to_100": true
+    },
+    "overall_validation_status": "PASSED"
+}

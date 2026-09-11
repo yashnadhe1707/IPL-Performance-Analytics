@@ -1,0 +1,26 @@
+{
+    "dataset_summary": {
+        "total_matches": 180,
+        "total_deliveries": 41456,
+        "total_seasons": 7,
+        "total_teams": 10
+    },
+    "missing_values": {
+        "matches_columns_with_missing": {},
+        "deliveries_columns_with_missing": {
+            "player_dismissed": 95.05,
+            "dismissal_kind": 95.05,
+            "fielder": 97.01
+        }
+    },
+    "duplicates": {
+        "matches_duplicate_rate_pct": 0.0,
+        "deliveries_duplicate_rate_pct": 0.0
+    },
+    "data_integrity": {
+        "unknown_teams_count": 0,
+        "all_match_ids_unique": true,
+        "date_parsing_success_pct": 100.0
+    },
+    "status": "PASSED"
+}

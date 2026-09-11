@@ -1,0 +1,12 @@
+{
+    "execution_time_seconds": 1.413,
+    "component_checks": {
+        "data_loading": "PASSED",
+        "player_batting_pipeline": "PASSED",
+        "player_bowling_pipeline": "PASSED",
+        "team_performance_pipeline": "PASSED",
+        "rankings_pipeline": "PASSED",
+        "insights_generation_pipeline": "PASSED"
+    },
+    "status": "PASSED"
+}
